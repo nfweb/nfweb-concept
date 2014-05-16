@@ -1,6 +1,6 @@
 #User Stories
-
-##A user who looks for general information on nightfever
+##Public Users
+###A user who looks for general information on nightfever
 Wants to...
 
 1. get a precise description of the idea and purpose of nightfever
@@ -8,7 +8,7 @@ Wants to...
 3. discover nightfever cities and countries
 4. learn about nearby locations and dates
 
-##A user who looks for information on a specific nightfever city
+###A user who looks for information on a specific nightfever city
 Wants to...
 
 1. find upcoming events in that city
@@ -16,14 +16,14 @@ Wants to...
 3. learn more about nightfever
 4. discover nearby cities
 
-##A regular user looking for updates on nightfever
+###A regular user looking for updates on nightfever
 Wants to...
 
 1. get the latest news (articles, media, newsletters)
 2. know about upcoming important events
 
 
-##A regular user looking for updates on a specific nightfever city
+###A regular user looking for updates on a specific nightfever city
 Wants to...
 
 1. find upcoming events in that city
