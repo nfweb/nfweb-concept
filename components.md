@@ -1,8 +1,8 @@
 #ToC
 1. [Core Components](#core-components)
-2. [Auxilary Components](#auxilary-components)
+2. [Auxiliary Components](#auxiliary-components)
 3. [Optional Components](#optional-components)
-4. [Non-software Components](#non-software-componente)
+4. [Non-software Components](#non-software-components)
 
 # Core Components
 
