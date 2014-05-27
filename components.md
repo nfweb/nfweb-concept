@@ -1,3 +1,9 @@
+#ToC
+1. [Core Components](#core-components)
+2. [Auxiliary Components](#auxiliary-components)
+3. [Optional Components](#optional-components)
+4. [Non-software Components](#non-software-components)
+
 # Core Components
 
 ##Content Management System
@@ -101,3 +107,22 @@ Proposals: Mandrill, Mailjet, Sendgrid
 * caches dynamic content
 
 Proposals: Cloud Flare, Google App Engine, Amazon Cloudfront, Fastly
+
+#Non-software Components
+
+## Documentation & Guidelines
+* explain usage of nightfever software systems
+* enforcement of a unique content strategy
+* guidance and help for web based services
+* also applicable beyond the web
+
+@See [nf-guidelines](https://github.com/nfweb/nf-guidelines)
+
+##Support Desk 
+* offers help where general information is not sufficent
+* administrative tasks (admin actions) e.g. user right management, site creation
+
+##Development Documentation
+* document our proceedings and results as best as we can to make it easy to follow up
+* explain reasons for decisions and how they were translated into practice
+* don't leave anybody behind
