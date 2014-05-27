@@ -30,3 +30,14 @@ Wants to...
 2. read latest news from that city
 3. learn about important news from other cities and global
 
+###A user who wants to participate or start Nightfever in his city
+Wants to...
+
+1. get background information on nightfever
+2. know how he can participate
+
+###A media representative
+Wants to...
+
+1. find press announcements
+2. get general information on nightfever
