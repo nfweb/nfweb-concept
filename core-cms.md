@@ -27,6 +27,7 @@ Examples: Symfony, Rails
  * media (image, video, audio)
  * page hierarchy
  * micropost
+  * reference to other content or external links
 * several subsites/spaces (for specific projects) integrated into a single web site
 * fine-grained user management and grouping
 * future proof, easily maintainable & extendable
