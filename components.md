@@ -1,9 +1,3 @@
-#ToC
-1. [Core Components](#core-components)
-2. [Auxiliary Components](#auxiliary-components)
-3. [Optional Components](#optional-components)
-4. [Non-software Components](#non-software-components)
-
 # Core Components
 
 ##Content Management System
@@ -18,12 +12,13 @@
 
 ##Webserver Platform
 * Requirements: SSH, Git, software requirements
+* production, staging and development environments
 
 Webhosting, Cloud or VPS?
 
 Hosting location: Germany?, EU?, US? -> privacy policies
 
-Proposals: Digital Ocean, DomainFactory, hetzner, uberspace, filoo etc.
+Proposals: Digital Ocean, DomainFactory, hetzner, uberspace, filoo
 
 ##Media Hosting
 * Media files require large amounts of storage and are mostly static ressources
@@ -67,7 +62,7 @@ not initially necessary, but highly recommended to support future developments
 * A large content base is not applicable to an on-line full-text search on the content database 
 * requires a destinct search engine and index
 
-Proposals: Solr, Elasicsearch
+Proposals: Elasticsearch, Solr
 
 ##Web Analytics
 Measurement, collection, analysis and reporting of request data to understand and optimize user experience.
@@ -85,6 +80,11 @@ Proposals: Discourse, Tickeding, Github, Open Atrium
 Informs stakeholders about development progress.
 
 Proposal: Simple blog 
+
+##Data Backup
+Constant data duplication to a backup site. In case anything goes wrong.
+
+Proposals: Amazon Glacier
 
 # Optional Components
 
