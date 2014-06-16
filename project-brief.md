@@ -120,9 +120,13 @@ The navigation concept should include
 Each scope acts as an independent website and build their own distinguished domain, creating an individual hierarchy and containing content from all other content types.
 User permissions are given on a scope domain.
 
-The landing page of each scope may be customized using common elements (news feed, menus, teasers, etc.)
+The landing page of each scope should be customizabe using some common elements:
 
-Examples: Nightfever Akademie, Nightfever Weekend, Nightfever Leiterwochenende
+* news feed
+* navigation
+* teasers
+* upcoming events
+* media elements
 
 ####Global Scope
 The general landing page ```nightfever.org``` represents the global scope.
@@ -134,6 +138,8 @@ Cities are in general equivalent to local Nightfever groups.
 
 ####Project Scope
 Projects resemble generic Nightfever groups working on specific projects like common events and specials.
+
+Examples: Nightfever Akademie, Nightfever Weekend, Nightfever Leiterwochenende, Katholikentag, Kongress Freude am Glauben
 
 ###Content Types
 
@@ -157,12 +163,17 @@ Several event types: Nightfever (evening), specials, team gathering, etc.
 A short text post with the ability to reference internal or external content (similar to a tweet or status update) including a preview of the referenced content.
 
 * internal content from the parent or other sites (promote events, stories etc)
-* external and 3rd party references to websites, media (image, video, audio)
+* external and 3rd party references to websites, files, media (image, video, audio, gallery, playlist)
 
 ####Venue
 Venues represent the usually recurring event locations of Nightfever evenings, but also other events.
 
 Fields: title, description, image, address
+
+####Statement
+Statements from visitors.
+
+Fields: body, cited_person
 
 ## Infrastructure & Environment
 
