@@ -175,6 +175,20 @@ Statements from visitors.
 
 Fields: body, cited_person
 
+###Navigation
+In general, there are two levels of navigation: global and local. Each page allows easy navigation to other pages in the local scope.
+Additionally any other scope should be directly reachable from every page (textfield with auto-suggest).
+
+* switching between different localizations of the current page (if available)
+* subpages and other content in the same scope
+* related entities of a certain site (country -> cities, event -> city)
+* quick access to all other cities and projects
+* discover nearby nightfever cities
+* upcoming events (including nearby)
+
+## Design & Layout
+The website design should follow the Nightfever corporate identity guidelines.
+
 ## Infrastructure & Environment
 
 * external media hosting provider (third party & self hosted)
