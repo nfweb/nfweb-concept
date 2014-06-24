@@ -3,6 +3,8 @@
 * [Introduction](#introduction)
   * [Project Goals](#project-goals)
   * [Current Website](#current-website)
+* [General Requirements] (#general-requiremants)
+  * [Project Schedule] (#project-schedule)
 * [CMS requirements](#cms-requirements)
 * [Users](#users)
   * [Public Users](#public-users)
@@ -22,8 +24,10 @@
 * [Deployment](#deployment)
 
 
+
 ##Introduction
 Nightfever is an international christian initiative in about 100 cities all around the world. In these cities Nightfever teams open churches during the night and invite passersby to a moment of tranquility and encounter.
+
 
 ###Project Goals
 Due to the recent and continuing growth of Nightfever we need to focus our website on internationalisation and localizaion. The current software delivering our website is funcionally limited and faulty. It is not considered to provide a sound platform for these and any future demands.
@@ -44,6 +48,15 @@ The relaunced website is to be presented at the international Nightfever leaders
 Currently there are websites for some of the cities, mostly from german speaking regions, where local teams are able to publish dates, fotos, visitor statements and press references. These city websites run on the same content management system but there are hardly any interconnections besides a general city navigation list.
 
 The website exsists in a hand full of languages, but the l10n features of the employed content management system are rather limited.
+
+##General Requiremants
+The Nightfever Website has to be developed for a fixed price including all parts described in this document.
+
+###Project Schedule
+* hebdomadal: Conference call for a brief description of the development
+* 01/09/2014: End of development and project handover
+* 01/09/2014 - 12/09/2014: testing 
+* 15/09/2014: acceptance/commissioning report
 
 ##CMS requirements
 
