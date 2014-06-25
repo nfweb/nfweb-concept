@@ -3,8 +3,8 @@
 * [Introduction](#introduction)
   * [Project Goals](#project-goals)
   * [Current Website](#current-website)
-* [General Requirements] (#general-requiremants)
-  * [Project Schedule] (#project-schedule)
+* [General Requirements](#general-requirements)
+  * [Project Schedule](#project-schedule)
 * [CMS requirements](#cms-requirements)
 * [Users](#users)
   * [Public Users](#public-users)
@@ -39,8 +39,7 @@ The online services for nightfever are to be renewed in terms of design as well 
 * support for mobile and touch devices
 * increased usability for viewers and editors
 * reliable and extendable software platform
-* webservice API (foundation for mobile apps, web apps and additional sites
-)
+* webservice API (foundation for mobile apps, web apps and additional sites)
 
 The relaunced website is to be presented at the international Nightfever leaders convention at October 1st 2014.
 
@@ -121,13 +120,7 @@ Individual websites/landing pages and subsites:
 
 All these websites have some sub pages like articles, events and static pages.
 
-The navigation concept should include
-
-* switching between different localizations of the current page (if available)
-* show related entities of a certain site (city -> country, event -> city)
-* show the total amount of cities and projects
-* nearby nightfever cities
-* upcoming events in nearby cities
+![](website-structure.png)
 
 ###Scopes
 Each scope acts as an independent website and build their own distinguished domain, creating an individual hierarchy and containing content from all other content types.
@@ -210,11 +203,9 @@ The website design should follow the Nightfever corporate identity guidelines.
 * Support plattform: Many users will be administering Nightfever content on a regular basis. We'll need a knowledge base (guidelines, frequent tasks, tools etc.) and a discussion/issue management platform to handle individual issues.
 * Backup plan: Constant automatic backup task inklusing code and content
 
-## Deployment
+## Legacy
+
 Continuity of important legacy components:
 
-* Existing URLs still hold or redirect to their content ("Cool URIs don't change"
-)
+* Existing URLs still hold or redirect to the correspondent new content location ("Cool URIs don't change")
 * Existing domain names continue to exists
-
-
