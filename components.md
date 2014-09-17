@@ -18,7 +18,7 @@ Webhosting, Cloud or VPS?
 
 Hosting location: Germany?, EU?, US? -> privacy policies
 
-Proposals: Digital Ocean, DomainFactory, hetzner, uberspace, filoo
+Proposals: Digital Ocean, DomainFactory, hetzner, uberspace, filoo, netcup
 
 ##Media Hosting
 * Media files require large amounts of storage and are mostly static ressources

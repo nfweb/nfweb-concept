@@ -24,7 +24,6 @@
 * [Deployment](#deployment)
 
 
-
 ##Introduction
 Nightfever is an international christian initiative in about 100 cities all around the world. In these cities Nightfever teams open churches during the night and invite passersby to a moment of tranquility and encounter.
 
@@ -194,6 +193,11 @@ Additionally any other scope should be directly reachable from every page (textf
 
 ## Design & Layout
 The website design should follow the Nightfever corporate identity guidelines.
+
+* modern design
+* device-agnostic
+* nternationalization support
+* high usability for both visitors and editors
 
 ## Infrastructure & Environment
 
