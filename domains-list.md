@@ -69,6 +69,16 @@ This is a list of all domain names registered to and used by nightfever.
 * [nightfever-saarbrücken.de](http://nightfever-saarbrücken.de)
 * [nightfever-saarbruecken.de](http://nightfever-saarbruecken.de)
 
-##Missing Domains
+##Possible Acquisitions
 
 * [nightfever.eu](http://nightfever.eu): registered, for sale
+
+**City TLDs**
+
+* [nightfever.berlin](http://nightfever.berlin)
+* [nightfever.brussles](http://nightfever.brussles)
+* [nightfever.cologne](http://nightfever.cologne)
+* [nightfever.hamburg](http://nightfever.hamburg)
+* [nightfever.koeln](http://nightfever.koeln)
+* [nightfever.london](http://nightfever.london)
+* [nightfever.wien](http://nightfever.wien)
