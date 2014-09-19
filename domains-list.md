@@ -1,6 +1,8 @@
 #Nightfever Domains
 This is a list of all domain names registered to and used by nightfever.
 
+[Search for *nightfever* TLDs](https://www.inwx.de/de/domain/check#search=nightfever#region=ALL)
+
 ##Global Domains
 * [nightfever.org](http://nightfever.org)
 * [nightfever-deutschland.de](http://nightfever-deutschland.de)
