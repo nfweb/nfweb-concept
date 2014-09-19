@@ -8,16 +8,19 @@ This is a list of all domain names registered to and used by nightfever.
 * [nightfever-online.com](http://nightfever-online.com)
 * [nightfever-online.de](http://nightfever-online.de)
 * [nightfever-online.org](http://nightfever-online.org)
-* [nightfever.eu](http://nightfever.eu) (acquiring)
+* [nightfever.church](http://nightfever.church)
 
 **Project Domains**  
 
 * [nightfever-forum.de](http://nightfever-forum.de)
-* [nightfever-weekend.com](http://nightfever-weekend.com) (registered to Sebastian Sauer)
+* [nightfever-weekend.com](http://nightfever-weekend.com): registered to Sebastian Sauer
 
 ##City Domains
 * [nightfever-kobenhavn.dk](http://nightfever-kobenhavn.dk)
 * [nightfever-basel.ch](http://nightfever-basel.ch)
+* [nightfeverchicago.org](http://nightfeverchicago.org/): self-registered and operated
+* [nightfeverbxl.be](http://nightfeverbxl.be/): self-registered and operated
+* [nightfeverliege.be](http://nightfeverliege.be/): self-registered and operated
 
 ### Austria
 * [nightfever-graz.at](http://nightfever-graz.at)
@@ -65,3 +68,7 @@ This is a list of all domain names registered to and used by nightfever.
 * [nightfever-paderborn.de](http://nightfever-paderborn.de)
 * [nightfever-saarbrücken.de](http://nightfever-saarbrücken.de)
 * [nightfever-saarbruecken.de](http://nightfever-saarbruecken.de)
+
+##Missing Domains
+
+* [nightfever.eu](http://nightfever.eu): registered, for sale
