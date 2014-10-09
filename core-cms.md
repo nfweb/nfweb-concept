@@ -10,7 +10,7 @@ i.e. building a custom web application without a major framework but with a head
 * no community support
 
 ###Customizing an existing Content Management System
-Overall structure is given, needs to be customised to meet the requirements
+Overall structure is already existing, needs to be customised to meet the requirements
 Example: Drupal 
 
 ###Building a custom web application
@@ -18,23 +18,23 @@ should be based on an existing Content Management Framework -> use building bloc
 Examples: Symfony, Rails
 
 ##Features
-* Multilingual content
-* easy content editing
-* device-agnostig design
+* multilingual content
+* easy content authoring
+* device-agnostig design ("mobile-friendly")
 * various content types
  * story
  * event
  * media (image, video, audio)
- * page hierarchy
+ * page (hierarchical)
  * micropost
   * reference to other content or external links
-* several subsites/spaces (for specific projects) integrated into a single web site
+* several subsites/spaces (for each city, project etc.) integrated into a single web site
 * fine-grained user management and grouping
 * future proof, easily maintainable & extendable
 * reliable, safe & secure
-* webservice API (for future use e.g. mobile app)
+* webservice API
 * social media integration
 * content revisioning
 * content syndication
-* enhanced search feature (including facets)
-* high usability & accessibility
+* enhanced search feature (including facets, subsites, rich content)
+* good usability & accessibility

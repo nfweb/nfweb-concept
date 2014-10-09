@@ -74,11 +74,12 @@ This is a list of all domain names registered to and used by nightfever.
 ##Possible Acquisitions
 
 * [nightfever.eu](http://nightfever.eu): registered, for sale
+* *.nf: (Norfolk-Inseln)
 
 **City TLDs**
 
 * [nightfever.berlin](http://nightfever.berlin)
-* [nightfever.brussles](http://nightfever.brussles)
+* [nightfever.brussels](http://nightfever.brussels)
 * [nightfever.cologne](http://nightfever.cologne)
 * [nightfever.hamburg](http://nightfever.hamburg)
 * [nightfever.koeln](http://nightfever.koeln)
