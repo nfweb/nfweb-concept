@@ -1,8 +1,6 @@
 #Content Management System
 
-* possible platforms: PHP, Ruby
-
-##Implementations
+##Implementation Variations
 ###Enhancement of current code base
 i.e. building a custom web application without a major framework but with a head start
 
@@ -38,3 +36,10 @@ Examples: Symfony, Rails
 * content syndication
 * enhanced search feature (including facets, subsites, rich content)
 * good usability & accessibility
+
+##Platform
+
+Ruby on Rails allows a rapid development of webapps based on a prooven and sofisticated framework, supported by a large open-source community.
+Content management systems such as Drupal have a pre-defined structure of their data model, software architecture, information architecture and user guidance. It would require a lot of changes to the underlying software to tailor such a system to our specific needs.
+Still it would hardy be possible do bend it all the way we want and it still includes many components and features we don't even need and never will.
+So it seems preferable to build the content management system for our Nightfever website from scratch, based on a powerfull framework and supported by a vast amount of ready-to-use components, that just need to be put together to create a system that is specific to our purpose.

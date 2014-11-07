@@ -12,8 +12,7 @@ This is a list of all domain names registered to and used by nightfever.
 * [nightfever-online.org](http://nightfever-online.org)
 * [nightfever.church](http://nightfever.church)
 
-**Project Domains**  
-
+##Project Domains
 * [nightfever-forum.de](http://nightfever-forum.de)
 * [nightfever-weekend.com](http://nightfever-weekend.com): registered to Sebastian Sauer
 

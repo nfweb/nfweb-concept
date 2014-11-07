@@ -1,3 +1,9 @@
+* Websites:
+** nightfever.org: ~50
+** others: ~5
+* Facebook Pages: ~60
+* Twitter Handles: ~15
+
 #Websites
 Other domains are listed in [domains-list.md](domains-list.md).
 * [Nightfever Online](http://www.nightfever.org)
@@ -154,7 +160,7 @@ Get a current list at https://www.facebook.com/search/str/nightfever/pages-named
 * Nightfever Chicago [@NF_Chicago](https://twitter.com/NF_Chicago)
 * Nightfever Sheffield [@Nightfeversheff](https://twitter.com/Nightfeversheff)
 * Nightfever Sac [@nightfeversac](https://twitter.com/nightfeversac)
-* Nightfever♨Valencia [@NightfeverVlc](https://twitter.com/NightfeverVlc)
+* Nightfever Valencia [@NightfeverVlc](https://twitter.com/NightfeverVlc)
 * Nightfever Nederland [@NightfeverNL](https://twitter.com/NightfeverNL)
 * NIGHTFEVER NUERNBERG [@nightfever_nbg](https://twitter.com/nightfever_nbg)
 * Nightfever Aachen [@Nightfever_AC](https://twitter.com/Nightfever_AC)

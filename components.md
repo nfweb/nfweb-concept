@@ -6,13 +6,14 @@
 * Three Implementation proposals:
  * Enhancement of current code base
  * Customizing an existing Content Management System: Drupal 
- * Building a custom web application (based on a Content Management Framework): Symfony, Rails
+ * Building a custom web application (based on a Content Management Framework): Symfony, Ruby on Rails
 
 [CMS Concept](/core-cms.md)
 
 ##Webserver Platform
-* Requirements: SSH, Git, software requirements
+* platform for CMS
 * production, staging and development environments
+* automated deployment
 
 Webhosting, Cloud or VPS?
 
@@ -22,7 +23,7 @@ Proposals: Digital Ocean, DomainFactory, hetzner, uberspace, filoo, netcup, do.d
 
 ##Media Hosting
 * Media files require large amounts of storage and are mostly static ressources
-* Should not be hosted one webserver but on a dedicated service
+* Should not be hosted on webserver but on a dedicated file/media storage
 * Some hosting services provide additional features besides simple file storage
 
 Proposals:
@@ -33,13 +34,12 @@ Proposals:
 * Generic Files:
 
 ##Domain Registration & Domain Name Server
-* Domains: nightfever.org
+* Domains: [domains-list.md](/domains-list.md)
 * SSL Certificate
-* What about managing different domains? (nightfever-[:city].de)
 
 ##SSL Certification
 * strongly recommended to ensure secure login process & administration
-* Should have a wildcard certificate (*.nightfever.org)
+* Should have a wildcard certificate to include all subdomains (*.nightfever.org)
 
 ##Mail Server (MTA/MDA)
 * mailboxes for users
@@ -53,13 +53,12 @@ Self hosting vs. external hosting?
 * Support for external identity providers (openID etc.)
 * Basic user directory
 
-This would also be a part of the Nightfever Intranet.
-
 # Auxiliary Components
 not initially necessary, but highly recommended to support future developments
 
 ##Search Engine
-* A large content base is not applicable to an on-line full-text search on the content database 
+* dedicated search engine to provide distinct search and analysis features for our webservices
+* better performance and custom features than on-line full-text search on the content database
 * requires a destinct search engine and index
 
 Proposals: Elasticsearch, Solr
@@ -70,16 +69,14 @@ Measurement, collection, analysis and reporting of request data to understand an
 Proposals: Piwik
 
 ##Support Desk
-Many users will be administering Nightfever content on a regular basis. We'll need a knowledge base (guidelines, frequent tasks, tools etc.) and a support platform to handle individual issues.
-
-This would also be a part of the Nightfever Intranet.
+Many users will be administering Nightfever content on a regular basis. We'll need a knowledge base (guidelines, frequent tasks, tools etc.) and a support platform to handle individual issues concerning our website, website adminstration and other topics both IT-related and others.
 
 Proposals: Discourse, Tickeding, Github, Open Atrium
 
 ##Development Blog
 Informs stakeholders about development progress.
-
-Proposal: Simple blog 
+[Nightfever Web Dev](http://nfweb.github.io)
+[@nfwebdev](http://twitter.com/nfwebdev)
 
 ##Data Backup
 Constant data duplication to a backup site. In case anything goes wrong.

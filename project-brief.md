@@ -10,10 +10,10 @@
   * [Public Users](#public-users)
   * [Editors](#editors)
 * [Website Structure](#website-structure)
-  * [Scopes](#scopes)
-    * [Global Scope](#global-scope)
-    * [City Scope](#city-scope)
-    * [Project Scope](#project-scope)
+  * [Sites](#sites)
+    * [Global Site](#global-site)
+    * [City Site](#city-site)
+    * [Project Site](#project-site)
   * [Content Types](#content-types)
     * [Page](#page)
     * [Story](#story)
@@ -23,13 +23,11 @@
 * [Infrastructure & Environment](#infrastructure-environment)
 * [Deployment](#deployment)
 
-
 ##Introduction
 Nightfever is an international christian initiative in about 100 cities all around the world. In these cities Nightfever teams open churches during the night and invite passersby to a moment of tranquility and encounter.
 
-
 ###Project Goals
-Due to the recent and continuing growth of Nightfever we need to focus our website on internationalisation and localizaion. The current software delivering our website is funcionally limited and faulty. It is not considered to provide a sound platform for these and any future demands.
+Due to the recent and continuing growth of Nightfever we need to focus our website on internationalisation and localizaion. The current software delivering our website is functionally limited and faulty. It is not considered to provide a sound platform for our current and especially our future demands.
 
 The online services for nightfever are to be renewed in terms of design as well as the underlying software system. The most important goals and challenges are:
 
@@ -40,21 +38,10 @@ The online services for nightfever are to be renewed in terms of design as well 
 * reliable and extendable software platform
 * webservice API (foundation for mobile apps, web apps and additional sites)
 
-The relaunced website is to be presented at the international Nightfever leaders convention at October 1st 2014.
-
 ###Current Website
 Currently there are websites for some of the cities, mostly from german speaking regions, where local teams are able to publish dates, fotos, visitor statements and press references. These city websites run on the same content management system but there are hardly any interconnections besides a general city navigation list.
 
-The website exsists in a hand full of languages, but the l10n features of the employed content management system are rather limited.
-
-##General Requiremants
-The Nightfever Website has to be developed for a fixed price including all parts described in this document.
-
-###Project Schedule
-* hebdomadal: Conference call for a brief description of the development
-* 01/09/2014: End of development and project handover
-* 01/09/2014 - 12/09/2014: testing 
-* 15/09/2014: acceptance/commissioning report
+The website exists in a hand full of languages, but the l10n features of the employed content management system are rather limited.
 
 ##CMS requirements
 
@@ -113,7 +100,7 @@ Work on a local level, each city and project beeing responsible for their conten
 Individual websites/landing pages and subsites:
 
 * international landing page (multilingual): nightfever.org
-* landing pages for cities (usually monolingual, some with 2 or more languages): ~100 cities atm (e.g. bamberg.nightfever.org)
+* landing pages for cities (usually monolingual, some with 2 or more languages): ~100 cities atm (e.g. koeln.nightfever.org)
 * landing pages for specific projects, recurring events etc. (mono- or multilingual)
 * landing pages for countries or regions (usually monolingual, some with 2 or more languages)
 
@@ -121,11 +108,11 @@ All these websites have some sub pages like articles, events and static pages.
 
 ![](website-structure.png)
 
-###Scopes
-Each scope acts as an independent website and build their own distinguished domain, creating an individual hierarchy and containing content from all other content types.
-User permissions are given on a scope domain.
+###Sites
+Each site acts as an independent website and build their own distinguished domain, creating an individual hierarchy and containing content from all other content types.
+User permissions are given on a site domain.
 
-The landing page of each scope should be customizabe using some common elements:
+The landing page of each site should be customizabe using some common elements:
 
 * news feed
 * navigation
@@ -133,15 +120,15 @@ The landing page of each scope should be customizabe using some common elements:
 * upcoming events
 * media elements
 
-####Global Scope
-The general landing page ```nightfever.org``` represents the global scope.
+####Global Site
+The general landing page ```nightfever.org``` represents the global site.
 
 This includes overviews over cities and regions, events etc.
 
-####City Scope
+####City Site
 Cities are in general equivalent to local Nightfever groups.
 
-####Project Scope
+####Project Site
 Projects resemble generic Nightfever groups working on specific projects like common events and specials.
 
 Examples: Nightfever Akademie, Nightfever Weekend, Nightfever Leiterwochenende, Katholikentag, Kongress Freude am Glauben
@@ -181,11 +168,11 @@ Statements from visitors.
 Fields: body, cited_person
 
 ###Navigation
-In general, there are two levels of navigation: global and local. Each page allows easy navigation to other pages in the local scope.
-Additionally any other scope should be directly reachable from every page (textfield with auto-suggest).
+In general, there are two levels of navigation: global and local. Each page allows easy navigation to other pages in the local site.
+Additionally any other site should be directly reachable from every page (textfield with auto-suggest).
 
 * switching between different localizations of the current page (if available)
-* subpages and other content in the same scope
+* subpages and other content in the same site
 * related entities of a certain site (country -> cities, event -> city)
 * quick access to all other cities and projects
 * discover nearby nightfever cities
